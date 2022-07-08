@@ -8,4 +8,4 @@ Responsive design for alternative portfolio website
 
 Project Screenshots:
 
-![_C__Users_Korisnik_Documents_Web-Development_portfolio-design_public_index html](https://user-images.githubusercontent.com/46372998/178000042-7ec05863-62a1-41d8-a293-55947be2cd0a.png)
+![alternative-portfolio](https://user-images.githubusercontent.com/46372998/178001009-6f25e4fb-60d1-436c-ba40-60d17e6244eb.png)
